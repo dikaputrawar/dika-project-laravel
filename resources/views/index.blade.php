@@ -77,6 +77,8 @@
             <p class="text-white text-center max-w-4xl mx-auto leading-relaxed">
                 I'm a student at SMK Telkom Purwokerto majoring in Software Engineering. I specialize in Graphic Design, UX/UI Design, and Web Development. My passion is creating digital experiences that are both visually stunning and functionally effective. With skills in programming, writing, and design, I bring a unique approach to every project I work on.
             </p>
+
+            <a href= "{{route('about') }}" class="text-xl text-yellow-400 mb-4 font-medium">Baca Selengkapnya...</a>
         </div>
     </section>
 
@@ -142,15 +144,15 @@
             <h2 class="text-3xl title-font text-yellow-400 text-center mb-4">Contact Me</h2>
             <p class="text-white text-center mb-8">If you have any questions or would like to collaborate, feel free to contact me.</p>
             <div class="flex flex-wrap justify-center gap-4">
-                <a href="#" class="button-hover bg-pink-600 text-white px-6 py-3 rounded-lg flex items-center gap-2">
+                <a href="https://www.instagram.com/sfyn.dikaa/" class="button-hover bg-pink-600 text-white px-6 py-3 rounded-lg flex items-center gap-2">
                     <i class="fab fa-instagram"></i>
                     Follow me on Instagram
                 </a>
-                <a href="#" class="button-hover bg-gray-800 text-white px-6 py-3 rounded-lg flex items-center gap-2">
+                <a href="https://github.com/dikaputrawar" class="button-hover bg-gray-800 text-white px-6 py-3 rounded-lg flex items-center gap-2">
                     <i class="fab fa-github"></i>
                     Check my GitHub
                 </a>
-                <a href="#" class="button-hover bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center gap-2">
+                <a href="#https://mail.google.com/mail/?view=cm&fs=1&to=dikaputratjh@gmail.com" class="button-hover bg-blue-600 text-white px-6 py-3 rounded-lg flex items-center gap-2">
                     <i class="fas fa-envelope"></i>
                     Send a Message
                 </a>
