@@ -106,7 +106,7 @@
                 <div class="card bg-gray-800 p-6 rounded-lg">
                     <h3 class="text-xl text-yellow-400 mb-4 font-medium">SD Negeri 1 Tambaknegara</h3>
                     <p class="text-gray-300 mb-2">Tahun: 2014 - 2020</p>
-                    <p class="text-gray-300">Kegiatan dan Prestasi: Juara 1 lomba wirausaha tingkat kecamatan, anggota aktif Pramuka, dan peraih nilai UN tertinggi di sekolah.</p>
+                    <p class="text-gray-300">Kegiatan dan Prestasi: Juara 1 lomba wirausaha tingkat kecamatan, anggota aktif Pramuka, dan sangat aktif dikelas.</p>
                 </div>
             </div>
         </div>

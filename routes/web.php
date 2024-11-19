@@ -2,6 +2,7 @@
 
 use Illuminate\Support\Facades\Route;
 use App\Http\Controllers\HomeController;
+use App\Http\Controllers\AuthController;
 
 
 
@@ -26,3 +27,4 @@ use App\Http\Controllers\HomeController;
 Route::get('/', [Homecontroller::class, 'index'])->name('home');
 Route::get('/about', [Homecontroller::class, 'about'])->name('about');
 Route::get('/login', [Homecontroller::class, 'login'])->name('login');
+
